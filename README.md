@@ -57,6 +57,7 @@ For example, "/\d+/" will match one or more digits.
 
 For example, positive integers.
 \D 	Matches all non-digits including white space.
+
 ---------------------------------------------------------------------------------------------------------------------------------------------------
 
 The input for the program is taken by using command line arguments.
